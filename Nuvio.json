@@ -1,0 +1,43 @@
+{
+  "name": "Nuvio",
+  "subtitle": "Nuvio iOS Source",
+  "description": "Nuvio is an open-source video streaming organizer for movies, series, live TV, and web channels.",
+  "iconURL": "https://i.imgur.com/QgQVcLC.png",
+  "website": "https://nuvio.tv/",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.nuvio.media"
+  ],
+  "apps": [
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.nuvio.media",
+      "marketplaceID": "",
+      "developerName": "tapframe",
+      "subtitle": "Nuvio iOS",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/49WYcSP.png",
+      "tintColor": "#1881c9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.2.12",
+          "date": "2026-06-24T16:33:00-03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.12/Nuvio-v0.2.12-Enhanced.ipa",
+          "size": 38500000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
