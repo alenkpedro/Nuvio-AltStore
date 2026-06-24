@@ -25,11 +25,11 @@
         {
           "version": "0.2.12",
           "date": "2026-06-24T16:33:00-03:00",
-          "localizedDescription": null,
+          "localizedDescription": "Versão inicial otimizada.",
           "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-iOS/releases/download/0.2.12/Nuvio-v0.2.12-Enhanced.ipa",
           "size": 38500000,
-          "buildVersion": null,
-          "minOSVersion": null
+          "buildVersion": "",
+          "minOSVersion": ""
         }
       ],
       "appPermissions": {
