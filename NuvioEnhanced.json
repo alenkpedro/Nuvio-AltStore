@@ -1,0 +1,66 @@
+{
+  "name": "Nuvio Enhanced",
+  "subtitle": "Nuvio Enhanced builds for AltStore and SideStore.",
+  "description": "Unofficial AltStore/SideStore source for iOS releases from yesnt10/NuvioMobile-Enhanced.",
+  "website": "https://github.com/yesnt10/NuvioMobile-Enhanced",
+  "iconURL": "https://raw.githubusercontent.com/yesnt10/NuvioMobile-Enhanced/enhanced/iosApp/iosApp/Assets.xcassets/IconEnhanced.appiconset/icon-1024.png",
+  "tintColor": "#7B2FF7",
+  "featuredApps": [
+    "com.nuvio.enhanced"
+  ],
+  "apps": [
+    {
+      "name": "Nuvio Enhanced",
+      "bundleIdentifier": "com.nuvio.enhanced",
+      "developerName": "yesnt10",
+      "subtitle": "Enhanced Nuvio Mobile",
+      "localizedDescription": "Community-maintained enhanced build of Nuvio Mobile for iOS and iPadOS, with experimental features, quality-of-life improvements, playback refinements, and UI enhancements.",
+      "iconURL": "https://raw.githubusercontent.com/yesnt10/NuvioMobile-Enhanced/enhanced/iosApp/iosApp/Assets.xcassets/IconEnhanced.appiconset/icon-1024.png",
+      "tintColor": "#7B2FF7",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "0.3.1",
+          "buildVersion": "102",
+          "date": "2026-07-21T08:58:05Z",
+          "localizedDescription": "Nuvio Enhanced 0.3.1 Build 102. Adds favorite actors and expanded actor pages, actor search, redesigned downloads, subtitle font customization, estimated finish-time overlay, background stream prefetch, and improved iOS 4K playback. Also includes player, brightness, Hero, Continue Watching, download UI, and stability fixes.",
+          "downloadURL": "https://github.com/yesnt10/NuvioMobile-Enhanced/releases/download/enhanced-v0.3.1-build102/Nuvio-Enhanced-v0.3.1-build102-full-unsigned.ipa",
+          "size": 57948412
+        },
+        {
+          "version": "0.2.23",
+          "buildVersion": "98",
+          "date": "2026-07-14T19:30:20Z",
+          "localizedDescription": "Nuvio Enhanced 0.2.23 Build 98. Adds cleaner long-press poster and episode actions, synopsis previews, improved Home hero behavior, Live TV playback compatibility, update detection, crash reporting, and UI/stability fixes.",
+          "downloadURL": "https://github.com/yesnt10/NuvioMobile-Enhanced/releases/download/enhanced-v0.2.23-build98/Nuvio-Enhanced-v0.2.23-build98-unsigned.ipa",
+          "size": 45927629
+        },
+        {
+          "version": "0.2.23",
+          "buildVersion": "97",
+          "date": "2026-07-13T14:03:33Z",
+          "localizedDescription": "Nuvio Enhanced 0.2.23 Build 97. Adds Arabic and Russian support, animated gradient themes, improved stream-source hiding, Hero rating controls, Trakt redirect fixes, AI assistant restoration, and multiple playback/UI fixes.",
+          "downloadURL": "https://github.com/yesnt10/NuvioMobile-Enhanced/releases/download/enhanced-v0.2.23-build97/Nuvio-Enhanced-v0.2.23-build97-unsigned.ipa",
+          "size": 45822771
+        },
+        {
+          "version": "0.2.21",
+          "buildVersion": "95",
+          "date": "2026-07-10T18:00:41Z",
+          "localizedDescription": "Nuvio Enhanced 0.2.21 Build 95. Introduces the Streaming Showcase Hero, improved Home state and scrolling, stronger Trakt/Continue Watching sync, iOS player rotation and AudioUnit stability improvements, performance optimizations, and localization updates.",
+          "downloadURL": "https://github.com/yesnt10/NuvioMobile-Enhanced/releases/download/enhanced-v0.2.21-build95/NuvioEnhanced-0.2.21-build95-full-unsigned.ipa",
+          "size": 44669338
+        },
+        {
+          "version": "0.2.19",
+          "buildVersion": "94",
+          "date": "2026-07-06T11:53:15Z",
+          "localizedDescription": "Nuvio Enhanced 0.2.19 Build 94. First Enhanced release line using bundle ID com.nuvio.enhanced, allowing side-by-side installation with the original Nuvio. Adds plugin filters, Hero artwork controls, optional content warnings, DNS UI improvements, GIF profile search, and iOS GIF avatar improvements.",
+          "downloadURL": "https://github.com/yesnt10/NuvioMobile-Enhanced/releases/download/enhanced-v0.2.19-build94/Nuvio-Enhanced-v0.2.19-build94-full-unsigned.ipa",
+          "size": 42991616
+        }
+      ]
+    }
+  ],
+  "news": []
+}
